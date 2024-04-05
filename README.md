@@ -27,6 +27,7 @@ print(c)
 ```
 ## Output:
 [-34.,13.]
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
