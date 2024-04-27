@@ -26,7 +26,8 @@ c=np.linalg.solve(a,b)
 print(c)
 ```
 ## Output:
-[-34.,13.]
+![image](https://github.com/gayumee/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/149037327/b6375aaa-7a39-4f3a-905a-f07d02bd46a8)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
